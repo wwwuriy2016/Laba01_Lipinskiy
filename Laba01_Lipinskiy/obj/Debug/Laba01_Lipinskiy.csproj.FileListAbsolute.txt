@@ -1,0 +1,9 @@
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\bin\Debug\Laba01_Lipinskiy.exe.config
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\bin\Debug\Laba01_Lipinskiy.exe
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\bin\Debug\Laba01_Lipinskiy.pdb
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.Form1.resources
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.Properties.Resources.resources
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.csproj.GenerateResource.cache
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.csproj.CoreCompileInputs.cache
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.exe
+C:\Users\Юрий\Desktop\учеба НАУ\навроцкий\Laba01_Lipinskiy\Laba01_Lipinskiy\obj\Debug\Laba01_Lipinskiy.pdb
